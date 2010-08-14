@@ -1,0 +1,3 @@
+Install:
+Copy Singleton Subclass.pbfiletemplate to the /Developer/Platforms/iPhoneOS.platform/Developer/Library/Xcode/File\ Templates/Cocoa\ Touch\ Class/Objective-C\ class/ directory.
+Merge contents of TemplateChooser.plist with the TemplateChooser.plist in the same Xcode directory.
