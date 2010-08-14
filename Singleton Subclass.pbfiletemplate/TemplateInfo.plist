@@ -1,0 +1,5 @@
+{
+	MainTemplateFile = "class.m";
+	"CounterpartTemplateFile" = "class.h";
+	Description = "An Singleton Objective C class which is a subclass of NSObject";
+}
