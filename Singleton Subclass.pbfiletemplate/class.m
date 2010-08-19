@@ -7,6 +7,10 @@
 
 «OPTIONALHEADERIMPORTLINE»
 
+@implementation «FILEBASENAMEASIDENTIFIER»
+
+@end
+
 
 static «FILEBASENAMEASIDENTIFIER» *_instance;
 
@@ -54,10 +58,5 @@ static «FILEBASENAMEASIDENTIFIER» *_instance;
 - (id)autorelease {
     return self;	
 }
-
-@end
-
-
-@implementation «FILEBASENAMEASIDENTIFIER»
 
 @end
